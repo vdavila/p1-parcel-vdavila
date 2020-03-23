@@ -4,7 +4,7 @@ Primera práctica tutorizada.
 
 Seguí toda la práctica tutorizada.
 
-No hice capturas, fui siguiednola y no me acorde. Pero si es necesario puede ir reportando los pasos.
+No hice capturas, fui siguiednola y no me acorde. Pero si es necesario puedo reportar los pasos a posteriori.
 
 * En esta rama __master__, está la carpeta src y los archivos de configuracion.
 
